@@ -11,4 +11,5 @@
 
 # YAY basic commnds
 
-
+### To synchronize the repository databases and updates the system's including AUR packages.
+        yay
