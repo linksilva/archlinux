@@ -2,12 +2,11 @@
 
 ### To synchronize the repository databases and updates the system's. System upgrade.
 
-pacman -Syu
+    sudo pacman -Syu
 
-### To install a package
+### To install a package. Multiple packages can be added and separared by a space.
 
-pacman -S
-
+    sudo pacman -S package_name
 
 
 # YAY basic commnds
